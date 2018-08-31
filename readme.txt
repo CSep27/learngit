@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 New branch dev.
 Some changes.
 User B.
+User A.
